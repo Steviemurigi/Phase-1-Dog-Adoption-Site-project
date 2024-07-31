@@ -1,0 +1,46 @@
+{
+    "dogs"[
+    {
+        "breed": "Labrador Retriever",
+        "age": 3,
+        "size": "Large",
+        "description": "Friendly and outgoing, loves to play and be around people."
+    },
+    {
+        "breed": "Bulldog",
+        "age": 5,
+        "size": "Medium",
+        "description": "Calm and courageous, enjoys lounging and being a loyal companion."
+    },
+    {
+        "breed": "Poodle",
+        "age": 2,
+        "size": "Medium",
+        "description": "Intelligent and active, loves to learn new tricks and play fetch."
+    },
+    {
+        "breed": "Golden Retriever",
+        "age": 4,
+        "size": "Large",
+        "description": "Affectionate and gentle, great with kids and loves outdoor activities."
+    },
+    {
+        "breed": "Beagle",
+        "age": 6,
+        "size": "Small",
+        "description": "Curious and friendly, enjoys exploring and being part of a pack."
+    },
+    {
+        "breed": "Dachshund",
+        "age": 3,
+        "size": "Small",
+        "description": "Playful and brave, has a big personality in a small body."
+    },
+    {
+        "breed": "Boxer",
+        "age": 2,
+        "size": "Large",
+        "description": "Energetic and playful, loves to be active and make new friends."
+    }
+  ]
+  }
